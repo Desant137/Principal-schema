@@ -11,6 +11,8 @@ public class Voltage extends JLabel implements Element {
     List<Integer> vertices;
     public int radius = 19;
 
+    huem po lbu mne dalo!
+
     public Voltage(String name){
         this.name = name;
 
